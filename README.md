@@ -8,3 +8,4 @@
 - 26 Dec: `xargs` takes input from stdin, and passes it as a normal argument to another command. This is great for commands that ignore stdin, like `rm`. I always knew that `xargs` existed but finally took the time to see what exactly it actually does :)
 - 7 Jan: `\FloatBarrier` lets LaTeX know that you want all previously defined figures to be rendered before this marker
 - 9 Jan: The Vim command `gq` formats the selected text according to the Vim settings, e.g. it enforces `textwidth=80`. This is pretty nice for reformatting text
+- 18 Jan: To enable viewing logging when in jupyter notebooks: `import logging; logging.getLogger().setLevel(logging.DEBUG)`
