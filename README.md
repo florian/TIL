@@ -10,3 +10,4 @@
 - 9 Jan: The Vim command `gq` formats the selected text according to the Vim settings, e.g. it enforces `textwidth=80`. This is pretty nice for reformatting text
 - 18 Jan: To enable viewing logging when in jupyter notebooks: `import logging; logging.getLogger().setLevel(logging.DEBUG)`
 - 30 Jan: Vim: `gqip` to format the current paragraph. `vip` selects the current paragraph
+- 26 Feb: GNU [aspell](http://aspell.net) is useful for spell checking LaTeX files, as well as other plain text formats like markdown
