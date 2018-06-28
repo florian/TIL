@@ -20,3 +20,8 @@
 ## 2018
 
 - 8 Apr: When using `newcommand` in LaTeX to define a shortcut for a phrase, `xspace` is very useful for ensuring proper spacing. E.g. `\usepackage{xspace} \newcommand{\fl}{Federated Learning\xspace}` makes sure that a space is inserted when a word follows (`\fl is useful`) but not when punctuation follows (`\fl,`).
+- 28 Jun: Jupyter can [auto-reload modules](https://stackoverflow.com/questions/5364050/reloading-submodules-in-ipython) whenever they change:
+```
+%load_ext autoreload
+%autoreload 2
+```
