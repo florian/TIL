@@ -25,3 +25,4 @@
 %load_ext autoreload
 %autoreload 2
 ```
+- 29 Sep: Transitions in CSS are [not inherited](https://web.archive.org/web/20160305003043/https://www.bennadel.com/blog/2931-css3-transition-properties-are-not-inherited-in-angularjs.htm) by default
