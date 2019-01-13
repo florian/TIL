@@ -27,3 +27,7 @@
 ```
 - 29 Sep: Transitions in CSS are [not inherited](https://web.archive.org/web/20160305003043/https://www.bennadel.com/blog/2931-css3-transition-properties-are-not-inherited-in-angularjs.htm) by default
 - 7 Oct: `r''` is not just for *regular* expressions, it's actually for *raw* strings. Every character other than the closing `'` is taken literally. This means backslashes do not need to be escaped, which is useful for regular expressions
+
+## 2019
+
+- 13 Jan: `\mbox` if you don't want LaTeX to break up a phrase
